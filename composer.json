@@ -11,7 +11,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.2",
-        "hannesvdvreken/guzzle-profiler": "^2.0",
+        "hannesvdvreken/guzzle-profiler": "1.1.0",
         "itsgoingd/clockwork": "^1.4|^2.0|^3.0|^4.0|^5.0"
     },
     "require-dev": {
